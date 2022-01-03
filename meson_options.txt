@@ -1,0 +1,3 @@
+option('Pop', type: 'boolean', value: true, description:'build Pop default flavour')
+option('Pop-dark', type: 'boolean', value: true, description:'build Pop-dark flavour')
+
